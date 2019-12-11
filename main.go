@@ -1,11 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"rsc.io/quote"
+	"github.com/xiezhenouc/gomodlib"
 )
 
 func main() {
-	fmt.Println(quote.Hello())
+	gomodlib.Hi()
 }
