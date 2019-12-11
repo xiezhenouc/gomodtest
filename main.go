@@ -6,4 +6,5 @@ import (
 
 func main() {
 	gomodlib.Hi()
+	gomodlib.Hello()
 }
