@@ -2,3 +2,5 @@ github.com/xiezhenouc/gomodlib v0.0.0-20191211031010-ded0ca92ea80 h1:DSTkmOdGNBg
 github.com/xiezhenouc/gomodlib v0.0.0-20191211031010-ded0ca92ea80/go.mod h1:pJimiYutiEkot6lICdmD16S6VXVx0CCRc1WpriJozyk=
 github.com/xiezhenouc/gomodlib v0.0.0-20191211031514-6c90f9cd873e h1:WRcFTdgncCOUX9j1A2ZllqFPzxJ2Xorwi160ywRlE7A=
 github.com/xiezhenouc/gomodlib v0.0.0-20191211031514-6c90f9cd873e/go.mod h1:pJimiYutiEkot6lICdmD16S6VXVx0CCRc1WpriJozyk=
+github.com/xiezhenouc/gomodlib v1.0.1 h1:Tt86BIvXYw6wSoN9X/+pUrFmgO+bAk2MZ/PCC88uvSk=
+github.com/xiezhenouc/gomodlib v1.0.1/go.mod h1:pJimiYutiEkot6lICdmD16S6VXVx0CCRc1WpriJozyk=
